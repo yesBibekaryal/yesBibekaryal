@@ -2,9 +2,9 @@
 <h2>🌟 Who Am I?</h2>
 <p>I’m your friendly neighborhood <strong>DevOps Engineer</strong> from the stunning mountains of Nepal! When I'm not busy sprinkling automation magic, I’m on a quest to conquer the latest DevOps tools and technologies. Let’s make those workflows as smooth as butter! 🧈✨</p>
 <h2>👨‍💻 My Projects</h2>
-<p>Curious about my creations? Dive into my world of code and innovation on my <a href="#">GitHub Profile</a>! 🖥️💡</p>
+<p>Curious about my creations? Dive into my world of code and innovation on my <a href="https://github.com/yesBibekaryal#">GitHub Profile</a>! 🖥️💡</p>
 <h2>📝 Articles & Blogs</h2>
-<p>I’m a proud tech storyteller! Join me as I share tales of <strong>DevOps</strong>, <strong>automation</strong>, and <strong>cloud adventures</strong> on my <a href="#">Tech Blog</a>. Let’s geek out together! 🤓📚</p>
+<p>I’m a proud tech storyteller! Join me as I share tales of <strong>DevOps</strong>, <strong>automation</strong>, and <strong>cloud adventures</strong> on my <a href="https://www.yesbibekaryal.com/blog/">My Blog</a>. Let’s geek out together! 🤓📚</p>
 <h2>📫 Let’s Connect!</h2>
 <ul>
     <li>✉️ <strong>Email</strong>: <a href="mailto:yesbibekaryal@gmail.com">yesbibekaryal@gmail.com</a> (I promise I don’t bite! 🐾)</li>
