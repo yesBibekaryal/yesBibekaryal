@@ -12,7 +12,7 @@
 </ul>
   
 <h2>📄 My Journey</h2>
-<p>Want to know how I got here? Check out my <a href="https://www.yesbibekaryal.com/about-me/">About Me - Resume</a> and let’s take a stroll down memory lane! 🚶‍♂️📜</p>
+<p>Want to know how I got here? Check out my <a href="https://www.yesbibekaryal.com/resume/">Resume</a> and let’s take a stroll down memory lane! 🚶‍♂️📜</p>
 <h2>🌐 Let’s Network!</h2>
 <p>- 🔗 Hit me up on <a href="(https://www.linkedin.com/in/bibek-aryal-101873a0/)">LinkedIn</a> and let’s make some connections! 🌍🤝</p>
  <h2>⚡ Tech Toolbox</h2>
