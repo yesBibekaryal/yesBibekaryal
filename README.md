@@ -8,7 +8,7 @@
 <h2>📫 Let’s Connect!</h2>
 <ul>
     <li>✉️ <strong>Email</strong>: <a href="mailto:yesbibekaryal@gmail.com">yesbibekaryal@gmail.com</a> (I promise I don’t bite! 🐾)</li>
-    <li>💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/bibek-aryal-101873a0/">Bibek Aryal</a> (Let’s network like pros!)</li>
+    <li>💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/bibek-aryal-6218961a6/">Bibek Aryal</a> (Let’s network like pros!)</li>
 </ul>
   
 <h2>📄 My Journey</h2>
