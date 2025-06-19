@@ -1,4 +1,4 @@
-<h1>🎊 Hey, Awesome People! I'm Bibek Aryal! 🚀</h1>
+<h1>🎊 Hey, Awesome People! I'm Bibek Aryal! 🚀</h1> 
 <h2>🌟 Who Am I?</h2>
 <p>I’m your friendly neighborhood <strong>Junior DevOps Engineer</strong> from the stunning mountains of Nepal! When I'm not busy sprinkling automation magic, I’m on a quest to conquer the latest DevOps tools and technologies. Let’s make those workflows as smooth as butter! 🧈✨</p>
 <h2>👨‍💻 My Projects</h2>
